@@ -3,8 +3,7 @@
 
 int main(void)
 {
-
-    printf("hello DIO!\n");
+    printf("Hello DIO!\n");
 
     return EXIT_SUCCESS;
 }
